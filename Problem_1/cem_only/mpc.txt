@@ -1,0 +1,881 @@
+---step #0----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3297604024410248,
+                                0.00807458721101284,
+                                0.42670556902885437],
+                'link_ang_vel': 1.4596707e-16,
+                'link_vel': 2.7283686e-16,
+                'qpos': 3.552714e-18,
+                'target_qpos': 1.5607432007789612}}
+reward: -0.084652 {'object_static': False, 'open_enough': False, 'success': False}
+---step #1----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.30498629808425903,
+                                0.007894759997725487,
+                                0.42197370529174805],
+                'link_ang_vel': 2.1175824e-22,
+                'link_vel': 1.5825302e-16,
+                'qpos': 0.0,
+                'target_qpos': 1.5607432007789612}}
+reward: -0.046460 {'object_static': False, 'open_enough': False, 'success': False}
+---step #2----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.2940956950187683,
+                                0.009576196782290936,
+                                0.41950276494026184],
+                'link_ang_vel': 0.111911654,
+                'link_vel': 0.009970414,
+                'qpos': -9.840557e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: -0.027147 {'object_static': False, 'open_enough': False, 'success': False}
+---step #3----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.29983893036842346,
+                                0.009892838075757027,
+                                0.4211946427822113],
+                'link_ang_vel': 0.05037017,
+                'link_vel': 0.0044875722,
+                'qpos': -6.264278e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: -0.026371 {'object_static': False, 'open_enough': False, 'success': False}
+---step #4----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.30165255069732666,
+                                0.006615286692976952,
+                                0.42508605122566223],
+                'link_ang_vel': 0.03134744,
+                'link_vel': 0.0027928012,
+                'qpos': -1.1233769e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': False, 'open_enough': False, 'success': False}
+---step #5----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3113330006599426,
+                                -0.0038103139959275723,
+                                0.42818430066108704],
+                'link_ang_vel': 0.07029165,
+                'link_vel': 0.0062624128,
+                'qpos': -5.221197e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': False, 'open_enough': False, 'success': False}
+---step #6----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3228222727775574,
+                                0.0032427653204649687,
+                                0.42520201206207275],
+                'link_ang_vel': 0.045611426,
+                'link_vel': 0.004063606,
+                'qpos': -4.7741616e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': False, 'open_enough': False, 'success': False}
+---step #7----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.33148840069770813,
+                                0.006434113252907991,
+                                0.4254186749458313],
+                'link_ang_vel': 0.05831935,
+                'link_vel': 0.0051957783,
+                'qpos': -4.0291034e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': False, 'open_enough': False, 'success': False}
+---step #8----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.33404460549354553,
+                                0.008009504526853561,
+                                0.42237699031829834],
+                'link_ang_vel': 0.039468963,
+                'link_vel': 0.0035163627,
+                'qpos': -3.3585518e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': False, 'open_enough': False, 'success': False}
+---step #9----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3417244851589203,
+                                0.005997239612042904,
+                                0.41911691427230835],
+                'link_ang_vel': 0.053387824,
+                'link_vel': 0.0047564195,
+                'qpos': -3.2095393e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': False, 'open_enough': False, 'success': False}
+---step #10----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3496636152267456,
+                                -0.002420638222247362,
+                                0.41684380173683167],
+                'link_ang_vel': 0.034648847,
+                'link_vel': 0.0030869294,
+                'qpos': -3.2840447e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': False, 'open_enough': False, 'success': False}
+---step #11----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.35248640179634094,
+                                -0.0035890371073037386,
+                                0.4155389070510864],
+                'link_ang_vel': 0.03783995,
+                'link_vel': 0.0033712315,
+                'qpos': -3.656573e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': False, 'open_enough': False, 'success': False}
+---step #12----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.35981565713882446,
+                                0.0005071972846053541,
+                                0.4124361574649811],
+                'link_ang_vel': 0.05131609,
+                'link_vel': 0.0045718453,
+                'qpos': -5.370207e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': False, 'open_enough': False, 'success': False}
+---step #13----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.36435970664024353,
+                                -0.00554056977853179,
+                                0.40950489044189453],
+                'link_ang_vel': 0.03476418,
+                'link_vel': 0.003097205,
+                'qpos': -1.868434e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': False, 'open_enough': False, 'success': False}
+---step #14----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3686712384223938,
+                                0.0006778202950954437,
+                                0.40400391817092896],
+                'link_ang_vel': 0.051809732,
+                'link_vel': 0.004615825,
+                'qpos': -4.0291026e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': False, 'open_enough': False, 'success': False}
+---step #15----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.36618348956108093,
+                                -0.0006624605739489198,
+                                0.40925341844558716],
+                'link_ang_vel': 0.02209502,
+                'link_vel': 0.0019684865,
+                'qpos': -1.88706e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': False, 'open_enough': False, 'success': False}
+---step #16----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.37021106481552124,
+                                -0.0010063264053314924,
+                                0.4074035882949829],
+                'link_ang_vel': 0.033033293,
+                'link_vel': 0.002942997,
+                'qpos': -2.4458544e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': False, 'open_enough': False, 'success': False}
+---step #17----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.36792173981666565,
+                                -0.00056750129442662,
+                                0.3997523784637451],
+                'link_ang_vel': 0.03394489,
+                'link_vel': 0.0030242128,
+                'qpos': 1.991017e-11,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': False, 'open_enough': False, 'success': False}
+---step #18----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.36625269055366516,
+                                -0.004884784109890461,
+                                0.39220771193504333],
+                'link_ang_vel': 0.028152926,
+                'link_vel': 0.002508196,
+                'qpos': -2.3713487e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': False, 'open_enough': False, 'success': False}
+---step #19----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.36999037861824036,
+                                -0.009985980577766895,
+                                0.38942283391952515],
+                'link_ang_vel': 0.041865256,
+                'link_vel': 0.0037298538,
+                'qpos': -1.2537617e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': True, 'open_enough': False, 'success': False}
+---step #20----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.36952826380729675,
+                                -0.007571469526737928,
+                                0.3853529095649719],
+                'link_ang_vel': 0.024534604,
+                'link_vel': 0.0021858334,
+                'qpos': -6.577153e-11,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': True, 'open_enough': False, 'success': False}
+---step #21----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3750201165676117,
+                                -0.007300466299057007,
+                                0.38249361515045166],
+                'link_ang_vel': 0.029712629,
+                'link_vel': 0.0026471529,
+                'qpos': -3.8242126e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': True, 'open_enough': False, 'success': False}
+---step #22----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3795449435710907,
+                                -0.005559755489230156,
+                                0.3757447600364685],
+                'link_ang_vel': 0.010749782,
+                'link_vel': 0.00095771794,
+                'qpos': -6.43746e-11,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': True, 'open_enough': False, 'success': False}
+---step #23----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.38194897770881653,
+                                -0.0052170963026583195,
+                                0.3761802017688751],
+                'link_ang_vel': 5.4513496e-09,
+                'link_vel': 4.856709e-10,
+                'qpos': 2.3123867e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': True, 'open_enough': False, 'success': False}
+---step #24----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.38210245966911316,
+                                -0.009183797053992748,
+                                0.36572256684303284],
+                'link_ang_vel': 0.019474136,
+                'link_vel': 0.0017349868,
+                'qpos': 2.605311e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': True, 'open_enough': False, 'success': False}
+---step #25----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3812759518623352,
+                                -0.012767819687724113,
+                                0.3611113131046295],
+                'link_ang_vel': 0.0140760355,
+                'link_vel': 0.00125406,
+                'qpos': -1.827785e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': True, 'open_enough': False, 'success': False}
+---step #26----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3812141716480255,
+                                -0.014735331758856773,
+                                0.3613266050815582],
+                'link_ang_vel': 1.0005667e-09,
+                'link_vel': 8.9142436e-11,
+                'qpos': 2.0566572e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': True, 'open_enough': False, 'success': False}
+---step #27----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3840304911136627,
+                                -0.01972980797290802,
+                                0.36147674918174744],
+                'link_ang_vel': 2.3894737e-08,
+                'link_vel': 2.1288264e-09,
+                'qpos': 0.00011485521,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439372 {'object_static': True, 'open_enough': False, 'success': False}
+---step #28----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.38863617181777954,
+                                -0.01821545697748661,
+                                0.36050334572792053],
+                'link_ang_vel': 0.18052171,
+                'link_vel': 0.01608301,
+                'qpos': 0.008177574,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.447434 {'object_static': True, 'open_enough': False, 'success': False}
+---step #29----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.38381627202033997,
+                                -0.016755791381001472,
+                                0.3594984710216522],
+                'link_ang_vel': 1.7090809e-09,
+                'link_vel': 1.5226513e-10,
+                'qpos': 0.008175562,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.447432 {'object_static': True, 'open_enough': False, 'success': False}
+---step #30----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3845152258872986,
+                                -0.011076664552092552,
+                                0.3571421205997467],
+                'link_ang_vel': 3.497207e-09,
+                'link_vel': 3.1157252e-10,
+                'qpos': 0.008170114,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.447427 {'object_static': True, 'open_enough': False, 'success': False}
+---step #31----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.38322362303733826,
+                                -0.01197643019258976,
+                                0.35993629693984985],
+                'link_ang_vel': 0.0072432943,
+                'link_vel': 0.0006453184,
+                'qpos': -2.2933818e-11,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': True, 'open_enough': False, 'success': False}
+---step #32----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.38402441143989563,
+                                -0.00857670046389103,
+                                0.3566074073314667],
+                'link_ang_vel': 0.004366783,
+                'link_vel': 0.00038904476,
+                'qpos': -6.204937e-11,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': True, 'open_enough': False, 'success': False}
+---step #33----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.385475218296051,
+                                -0.00894802063703537,
+                                0.35100436210632324],
+                'link_ang_vel': 0.0059922487,
+                'link_vel': 0.0005338606,
+                'qpos': -2.6193445e-11,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': True, 'open_enough': False, 'success': False}
+---step #34----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3856984078884125,
+                                -0.008905656635761261,
+                                0.35033005475997925],
+                'link_ang_vel': 0.0057874895,
+                'link_vel': 0.0005156182,
+                'qpos': -9.208455e-11,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': True, 'open_enough': False, 'success': False}
+---step #35----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.38938793540000916,
+                                -0.011994168162345886,
+                                0.3548550307750702],
+                'link_ang_vel': 4.860368e-19,
+                'link_vel': 4.3301907e-20,
+                'qpos': 0.009108744,
+                'target_qpos': 1.5607432007789612}}
+reward: -0.036048 {'object_static': True, 'open_enough': False, 'success': False}
+---step #36----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3937744200229645,
+                                -0.0056269727647304535,
+                                0.34525755047798157],
+                'link_ang_vel': 0.03006845,
+                'link_vel': 0.0026788537,
+                'qpos': -1.8998983e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': True, 'open_enough': False, 'success': False}
+---step #37----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3987765312194824,
+                                -0.004909050650894642,
+                                0.349730908870697],
+                'link_ang_vel': 0.014665694,
+                'link_vel': 0.0013065937,
+                'qpos': -2.3865415e-10,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': True, 'open_enough': False, 'success': False}
+---step #38----
+{'eval_info': {'object_static': True, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3954520523548126,
+                                -0.003924610558897257,
+                                0.3520650267601013],
+                'link_ang_vel': 0.009310101,
+                'link_vel': 0.0008294541,
+                'qpos': -9.2145486e-11,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.439257 {'object_static': True, 'open_enough': False, 'success': False}
+---step #39----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3991454243659973,
+                                -0.002943413332104683,
+                                0.3554668128490448],
+                'link_ang_vel': 0.66509163,
+                'link_vel': 0.05925429,
+                'qpos': 0.029322093,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.468579 {'object_static': False, 'open_enough': False, 'success': False}
+---step #40----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.39610177278518677,
+                                0.000854438345413655,
+                                0.35726943612098694],
+                'link_ang_vel': 0.09832214,
+                'link_vel': 0.008759699,
+                'qpos': 0.025376393,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.464633 {'object_static': False, 'open_enough': False, 'success': False}
+---step #41----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.39397501945495605,
+                                -0.005061100237071514,
+                                0.3627089858055115],
+                'link_ang_vel': 6.28428e-08,
+                'link_vel': 1.5700763e-07,
+                'qpos': 0.025898535,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.465155 {'object_static': False, 'open_enough': False, 'success': False}
+---step #42----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.39520448446273804,
+                                -0.0007462164503522217,
+                                0.3703314960002899],
+                'link_ang_vel': 0.6659088,
+                'link_vel': 0.0593271,
+                'qpos': 0.056479618,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.495736 {'object_static': False, 'open_enough': False, 'success': False}
+---step #43----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.39873144030570984,
+                                0.005645228084176779,
+                                0.37163013219833374],
+                'link_ang_vel': 0.35332257,
+                'link_vel': 0.031478163,
+                'qpos': 0.07556574,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.514822 {'object_static': False, 'open_enough': False, 'success': False}
+---step #44----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3942004144191742,
+                                0.007617031689733267,
+                                0.37706777453422546],
+                'link_ang_vel': 0.032917045,
+                'link_vel': 0.00293264,
+                'qpos': 0.07515952,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.514416 {'object_static': False, 'open_enough': False, 'success': False}
+---step #45----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.39119988679885864,
+                                -0.0053642746061086655,
+                                0.38293254375457764],
+                'link_ang_vel': 0.12708466,
+                'link_vel': 0.011322207,
+                'qpos': 0.07715501,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.516412 {'object_static': False, 'open_enough': False, 'success': False}
+---step #46----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.39235445857048035,
+                                -0.006412900052964687,
+                                0.38997119665145874],
+                'link_ang_vel': 0.46245772,
+                'link_vel': 0.041201223,
+                'qpos': 0.09766477,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.536922 {'object_static': False, 'open_enough': False, 'success': False}
+---step #47----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3896022439002991,
+                                -0.010565344244241714,
+                                0.39245185256004333],
+                'link_ang_vel': 1.7106511e-09,
+                'link_vel': 1.5240496e-10,
+                'qpos': 0.09776256,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.537019 {'object_static': False, 'open_enough': False, 'success': False}
+---step #48----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.38538384437561035,
+                                -0.007957221940159798,
+                                0.394395649433136],
+                'link_ang_vel': 4.7412634e-09,
+                'link_vel': 4.224077e-10,
+                'qpos': 0.09752741,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.536784 {'object_static': False, 'open_enough': False, 'success': False}
+---step #49----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.37985286116600037,
+                                -0.008733180351555347,
+                                0.40123075246810913],
+                'link_ang_vel': 0.71444833,
+                'link_vel': 0.06365158,
+                'qpos': 0.11700557,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.556262 {'object_static': False, 'open_enough': False, 'success': False}
+---step #50----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3764008581638336,
+                                -0.010518273338675499,
+                                0.40277257561683655],
+                'link_ang_vel': 0.21375687,
+                'link_vel': 0.019043997,
+                'qpos': 0.12807126,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.567328 {'object_static': False, 'open_enough': False, 'success': False}
+---step #51----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.37234240770339966,
+                                -0.007572307251393795,
+                                0.39857158064842224],
+                'link_ang_vel': 0.36344966,
+                'link_vel': 0.03238041,
+                'qpos': 0.14526352,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.584520 {'object_static': False, 'open_enough': False, 'success': False}
+---step #52----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3712279200553894,
+                                -0.011524390429258347,
+                                0.40567266941070557],
+                'link_ang_vel': 1.2235305,
+                'link_vel': 0.10900694,
+                'qpos': 0.19976223,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.639019 {'object_static': False, 'open_enough': False, 'success': False}
+---step #53----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3706924617290497,
+                                -0.019272247329354286,
+                                0.414110004901886],
+                'link_ang_vel': 2.278898,
+                'link_vel': 0.20303325,
+                'qpos': 0.3065414,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.745798 {'object_static': False, 'open_enough': False, 'success': False}
+---step #54----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3698819875717163,
+                                -0.021491222083568573,
+                                0.41579458117485046],
+                'link_ang_vel': 0.61014605,
+                'link_vel': 0.054359064,
+                'qpos': 0.34580165,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.785058 {'object_static': False, 'open_enough': False, 'success': False}
+---step #55----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.37109625339508057,
+                                -0.022037534043192863,
+                                0.4184006452560425],
+                'link_ang_vel': 1.3327429,
+                'link_vel': 0.11873694,
+                'qpos': 0.40901193,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.848269 {'object_static': False, 'open_enough': False, 'success': False}
+---step #56----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3660263419151306,
+                                -0.027010973542928696,
+                                0.42215391993522644],
+                'link_ang_vel': 2.1857884,
+                'link_vel': 0.19473772,
+                'qpos': 0.5122254,
+                'target_qpos': 1.5607432007789612}}
+reward: 0.951482 {'object_static': False, 'open_enough': False, 'success': False}
+---step #57----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3588567078113556,
+                                -0.03412046656012535,
+                                0.42573434114456177],
+                'link_ang_vel': 2.1745381,
+                'link_vel': 0.19373524,
+                'qpos': 0.6061363,
+                'target_qpos': 1.5607432007789612}}
+reward: 1.045393 {'object_static': False, 'open_enough': False, 'success': False}
+---step #58----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.36133190989494324,
+                                -0.03828132897615433,
+                                0.42688190937042236],
+                'link_ang_vel': 1.7212249,
+                'link_vel': 0.15334798,
+                'qpos': 0.6906084,
+                'target_qpos': 1.5607432007789612}}
+reward: 1.129865 {'object_static': False, 'open_enough': False, 'success': False}
+---step #59----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3650016188621521,
+                                -0.036790817975997925,
+                                0.42732980847358704],
+                'link_ang_vel': 0.9952153,
+                'link_vel': 0.08866574,
+                'qpos': 0.7444401,
+                'target_qpos': 1.5607432007789612}}
+reward: 1.183697 {'object_static': False, 'open_enough': False, 'success': False}
+---step #60----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.37071922421455383,
+                                -0.048292748630046844,
+                                0.4280475676059723],
+                'link_ang_vel': 2.9056618,
+                'link_vel': 0.2588753,
+                'qpos': 0.8710193,
+                'target_qpos': 1.5607432007789612}}
+reward: 1.310276 {'object_static': False, 'open_enough': False, 'success': False}
+---step #61----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.36677926778793335,
+                                -0.05977719649672508,
+                                0.4307211935520172],
+                'link_ang_vel': 2.5718396,
+                'link_vel': 0.22913373,
+                'qpos': 0.9963977,
+                'target_qpos': 1.5607432007789612}}
+reward: 1.435654 {'object_static': False, 'open_enough': False, 'success': False}
+---step #62----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.37129855155944824,
+                                -0.06942512094974518,
+                                0.4297759532928467],
+                'link_ang_vel': 1.6347345,
+                'link_vel': 0.14564228,
+                'qpos': 1.0968397,
+                'target_qpos': 1.5607432007789612}}
+reward: 1.536096 {'object_static': False, 'open_enough': False, 'success': False}
+---step #63----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.36858731508255005,
+                                -0.08397156000137329,
+                                0.4295695722103119],
+                'link_ang_vel': 1.3473449,
+                'link_vel': 0.12003796,
+                'qpos': 1.1528633,
+                'target_qpos': 1.5607432007789612}}
+reward: 1.592120 {'object_static': False, 'open_enough': False, 'success': False}
+---step #64----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.36868470907211304,
+                                -0.09360865503549576,
+                                0.4306042194366455],
+                'link_ang_vel': 2.587308,
+                'link_vel': 0.2305118,
+                'qpos': 1.2775929,
+                'target_qpos': 1.5607432007789612}}
+reward: 1.716850 {'object_static': False, 'open_enough': False, 'success': False}
+---step #65----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.36462661623954773,
+                                -0.10373299568891525,
+                                0.43163326382637024],
+                'link_ang_vel': 2.4458687,
+                'link_vel': 0.21790947,
+                'qpos': 1.3985794,
+                'target_qpos': 1.5607432007789612}}
+reward: 1.837836 {'object_static': False, 'open_enough': False, 'success': False}
+---step #66----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3628256618976593,
+                                -0.1184546947479248,
+                                0.432382732629776],
+                'link_ang_vel': 3.0404623,
+                'link_vel': 0.27088496,
+                'qpos': 1.5325311,
+                'target_qpos': 1.5607432007789612}}
+reward: 1.971788 {'object_static': False, 'open_enough': False, 'success': False}
+---step #67----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3604365289211273,
+                                -0.12643444538116455,
+                                0.4299934208393097],
+                'link_ang_vel': 0.9891985,
+                'link_vel': 0.088129684,
+                'qpos': 1.6102495,
+                'target_qpos': 1.5607432007789612}}
+reward: 3.922672 {'object_static': False, 'open_enough': False, 'success': False}
+---step #68----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3503940999507904,
+                                -0.13696768879890442,
+                                0.45132070779800415],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': False, 'open_enough': False, 'success': False}
+---step #69----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.34944772720336914,
+                                -0.15030154585838318,
+                                0.47123226523399353],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': False, 'open_enough': False, 'success': False}
+---step #70----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3467763364315033,
+                                -0.15166078507900238,
+                                0.47709813714027405],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': False, 'open_enough': False, 'success': False}
+---step #71----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3473638594150543,
+                                -0.15262877941131592,
+                                0.48466816544532776],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': False, 'open_enough': False, 'success': False}
+---step #72----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3425079882144928,
+                                -0.1443474292755127,
+                                0.4795086681842804],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': False, 'open_enough': False, 'success': False}
+---step #73----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3425118327140808,
+                                -0.1450822651386261,
+                                0.4804023802280426],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': False, 'open_enough': False, 'success': False}
+---step #74----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.343495637178421,
+                                -0.1483060121536255,
+                                0.48075947165489197],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': False, 'open_enough': False, 'success': False}
+---step #75----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.33813759684562683,
+                                -0.15141154825687408,
+                                0.48078298568725586],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': False, 'open_enough': False, 'success': False}
+---step #76----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.33675527572631836,
+                                -0.14471033215522766,
+                                0.48430636525154114],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': False, 'open_enough': False, 'success': False}
+---step #77----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3408561646938324,
+                                -0.15277056396007538,
+                                0.4901435077190399],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': False, 'open_enough': False, 'success': False}
+---step #78----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.33671772480010986,
+                                -0.15557841956615448,
+                                0.4883464574813843],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': False, 'open_enough': False, 'success': False}
+---step #79----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3350710868835449,
+                                -0.1612195372581482,
+                                0.4811738133430481],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': False, 'open_enough': False, 'success': False}
+---step #80----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.33559557795524597,
+                                -0.16627994179725647,
+                                0.48260343074798584],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': False, 'open_enough': False, 'success': False}
+---step #81----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3380168676376343,
+                                -0.1681574434041977,
+                                0.4832059442996979],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': False, 'open_enough': False, 'success': False}
+---step #82----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.33881324529647827,
+                                -0.15769276022911072,
+                                0.4825564920902252],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': False, 'open_enough': False, 'success': False}
+---step #83----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.34856027364730835,
+                                -0.15697415173053741,
+                                0.47511056065559387],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': False, 'open_enough': False, 'success': False}
+---step #84----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3595699965953827,
+                                -0.1612350344657898,
+                                0.4745956063270569],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': False, 'open_enough': False, 'success': False}
+---step #85----
+{'eval_info': {'object_static': False, 'open_enough': False, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3670918941497803,
+                                -0.15789267420768738,
+                                0.47921669483184814],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': False, 'open_enough': False, 'success': False}
+---step #86----
+{'eval_info': {'object_static': False, 'open_enough': True, 'success': False},
+ 'state_info': {'gripper_pos': [-0.3640270531177521,
+                                -0.16060331463813782,
+                                0.47539761662483215],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': False, 'open_enough': True, 'success': False}
+---step #87----
+{'eval_info': {'object_static': True, 'open_enough': True, 'success': True},
+ 'state_info': {'gripper_pos': [-0.36434754729270935,
+                                -0.15645459294319153,
+                                0.47727110981941223],
+                'link_ang_vel': 1.1369268e-19,
+                'link_vel': 1.0129041e-20,
+                'qpos': 1.6398993,
+                'target_qpos': 1.5607432007789612}}
+reward: 5.000000 {'object_static': True, 'open_enough': True, 'success': True}
+Bravo! Open the door!

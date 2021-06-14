@@ -1,0 +1,33 @@
+name: sapien-rl
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.7.4
+  - pip
+  - future
+  - h5py
+  - matplotlib
+  - numpy
+  - pathlib2
+  - pylint
+  - pytest
+  - pytorch=1.4.0
+  - pyyaml
+  - tqdm
+  - yaml
+  - transforms3d
+  - scipy
+  - yacs
+  - requests
+  - shapely
+  - tabulate
+  - pip:
+    - https://storage1.ucsd.edu/wheels/sapien-dev/sapien-1.0.dev_21_05_07-cp37-cp37m-manylinux2014_x86_64.whl
+    - glfw
+    - opencv-python
+    - gym
+    - transform3d
+    - trimesh
+    - open3d
